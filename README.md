@@ -1,10 +1,10 @@
 # cloud-dba-projects
 azure-sql-labs/
-│
-├── 01_Provision_SQL_VM/
-│   ├── PowerShell_Scripts/
-│   ├── Screenshots/
-│   ├── Notes.md
+
+01_Provision_SQL_VM/
+ PowerShell_Scripts/
+ Screenshots/
+
 
 02_HA_Failover_Groups/
 Architecture_Diagram.png
