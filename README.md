@@ -1,19 +1,14 @@
-# cloud-dba-projects
-azure-sql-labs/
+# Ephrem's Azure SQL & Cloud DBA Projects
 
-01_Provision_SQL_VM/
- PowerShell_Scripts/
- Screenshots/
+Hands-on labs and real-world Azure SQL DBA projects based on DP-300 coursework.
 
+## Projects
+- [Provision SQL Server on Azure VM](01_Provision_SQL_VM)
+- [High Availability & Failover Groups](02_HA_Failover_Groups)
+- [Performance Tuning & Query Store](03_Performance_Tuning)
 
-02_HA_Failover_Groups/
-Architecture_Diagram.png
-Monitoring_Alerts.json
+## Tools
+Azure SQL, PowerShell, Terraform, Azure Monitor, Key Vault, GitHub Actions
 
-
-03_Performance_Tuning/
- QueryStore_Before_After/
-DMV_Scripts.sql
-Results.csv
 
 
